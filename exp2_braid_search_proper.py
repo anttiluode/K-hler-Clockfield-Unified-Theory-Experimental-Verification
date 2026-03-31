@@ -236,7 +236,7 @@ def search(max_len=8, top_k=10):
     ax.grid(alpha=0.3)
     
     plt.tight_layout()
-    plt.savefig('/mnt/user-data/outputs/exp2_braid_search_proper.png', dpi=150)
+    plt.savefig('exp2_braid_search_proper.png', dpi=150)
     print("\nSaved: exp2_braid_search_proper.png")
     plt.close()
     

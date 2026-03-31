@@ -236,7 +236,7 @@ def run():
         axes[1, 3].axis('off')
     
     plt.tight_layout()
-    plt.savefig('/mnt/user-data/outputs/exp1_atiyah_singer_proper.png', dpi=150)
+    plt.savefig('exp1_atiyah_singer_proper.png', dpi=150)
     print("\nSaved: exp1_atiyah_singer_proper.png")
     
     # Summary

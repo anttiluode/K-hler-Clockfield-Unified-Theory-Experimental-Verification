@@ -1,3 +1,4 @@
+
 """
 Experiment 3 (Proper): Does the Clockfield Γ Form Emerge from Training?
 =========================================================================
@@ -321,7 +322,7 @@ def run():
     ax.set_ylim(-0.05, 1.1)
     
     plt.tight_layout()
-    plt.savefig('/mnt/user-data/outputs/exp3_learned_gate_proper.png', dpi=150)
+    plt.savefig('exp3_learned_gate_proper.png', dpi=150)
     print("\nSaved: exp3_learned_gate_proper.png")
     plt.close()
     
