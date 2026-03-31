@@ -13,6 +13,8 @@ The Clockfield describes a **U(1)-fibered spacetime** where the flow of proper t
 
   ## **Experiment 1: Atiyah-Singer Entropy Quantization**
 
+![Entropy Quantization](./exp1_entropy_quantization.png)
+
 **Status: \[CONFIRMED\]**
 
 We tested the prediction that the entropy of a frozen $\\Gamma$-shell must be quantized in discrete steps, governed by the Atiyah-Singer Index Theorem.
@@ -24,6 +26,8 @@ We tested the prediction that the entropy of a frozen $\\Gamma$-shell must be qu
 
   ## **Experiment 2: BPS Stability & Lepton Mass Hierarchy**
 
+![BPS Leptons](./exp2_bps_leptons.png)
+
 **Status: \[CONSTRAINED\]**
 
 We tested whether the muon/electron mass ratio could be derived from a BPS (Bogomol'nyi-Prasad-Sommerfield) bound where Energy equals Topological Charge.
@@ -34,6 +38,8 @@ We tested whether the muon/electron mass ratio could be derived from a BPS (Bogo
   ---
 
   ## **Experiment 3: Topological Routing (Forced Phase Transition)**
+
+![Forced Tau Results](./exp3_forced_tau_results.png)
 
 **Status: \[CONFIRMED \- MAJOR DISCOVERY\]**
 
